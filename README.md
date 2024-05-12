@@ -10,6 +10,7 @@ Property Shorthand permite simplificar la escritura de objetos literables cuando
 
 - .length
 La propiedad .length retorna el tamaño o número de elementos de arreglo.
+
 ![image](https://github.com/jeseniaisabel231/objetos-arreglos/assets/130105827/9891b860-b1cf-457e-a7ff-f5471c9e3402)
 
 - forEach
